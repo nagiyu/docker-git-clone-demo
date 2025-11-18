@@ -1,2 +1,3 @@
-# docker-git-clone-demo
-Clone a private GitHub repository into a Docker Container
+# Docker GitHub Clone Demo
+
+本プロジェクトは、Docker コンテナ内で GitHub のプライベートリポジトリをクローンする方法を検証するものです。
