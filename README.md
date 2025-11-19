@@ -54,3 +54,4 @@ sh pattern1/run.sh
 
 - **パターン1**: URL に PAT トークンを含む
 - **パターン2**: http.extraheader を用いる
+- **パターン3**: GitHub API でアーカイブを取得する
