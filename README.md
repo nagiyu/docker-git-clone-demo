@@ -53,3 +53,4 @@ sh pattern1/run.sh
 ## 各パターン
 
 - **パターン1**: URL に PAT トークンを含む
+- **パターン2**: http.extraheader を用いる
